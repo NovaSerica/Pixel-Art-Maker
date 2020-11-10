@@ -3,8 +3,13 @@
 ## About
 Pixel Art Maker is a simplistic, grid-based art maker.
 
+
+
 #### Code Used
 Project created using linked HTML, CSS, and JavaScript files.
+
+
+
 
 
 ### To Use
@@ -30,9 +35,15 @@ previously colored squares.
 To erase the grid and create a new one of the same size, click the Submit button.
 
 
+
+
+
 ## Running the Code
 
 Clone the repo and open index.html in your browser.
+
+
+
 
 
 
