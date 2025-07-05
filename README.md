@@ -49,4 +49,4 @@ Clone the repo and open index.html in your browser.
 
 ## License
 
-Pixel-Art-Maker is Copyright © 2020 Elena Silverwood.
+Pixel-Art-Maker is Copyright © 2020 Skyler Blick
